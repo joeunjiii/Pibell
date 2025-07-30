@@ -4,6 +4,11 @@
 ## 📅 프로젝트 기간
 2024년 11월 ~ 2024년 12월(총 3주)
 
+## 개발 인원 
+1명
+
+---
+
 ## 🛠 프로젝트 개요
 **Pibell**은 라즈베리파이와 PiCamera, 모션 센서, 버튼 등을 활용해 **실시간 스트리밍, 얼굴 인식, 알림 전송** 기능을 구현한 스마트 도어벨 시스템입니다.
 
@@ -19,11 +24,10 @@
 - PIR 모션 감지 센서
 - 푸시 알림용 버튼
 - 브레드보드 및 점퍼 와이어
-- 
----
+
 
 ### 전체 회로도
-<img width="833" height="738" alt="그림01" src="https://github.com/user-attachments/assets/8c7e5d2f-b68a-40df-b393-6e6c8de8c9cd" />
+![회로도]<img width="833" height="738" alt="그림01" src="https://github.com/user-attachments/assets/8c7e5d2f-b68a-40df-b393-6e6c8de8c9cd" />
 
 ---
 
