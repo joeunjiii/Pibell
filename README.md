@@ -21,9 +21,8 @@
 - 브레드보드 및 점퍼 와이어
 
 ### 전체 회로도
-![회로도](./474c9a40-fcb7-4a68-a392-3ecd75970bde.png)
+---<img width="833" height="738" alt="그림01" src="https://github.com/user-attachments/assets/8c7e5d2f-b68a-40df-b393-6e6c8de8c9cd" />
 
----
 
 ## 📦 환경 세팅 및 사전 준비
 
