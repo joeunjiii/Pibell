@@ -25,9 +25,7 @@
 - 푸시 알림용 버튼
 - 브레드보드 및 점퍼 와이어
 
----
-
-### 전체 회로도
+##3 전체 회로도
 <img width="833" height="738" alt="그림01" src="https://github.com/user-attachments/assets/8c7e5d2f-b68a-40df-b393-6e6c8de8c9cd" />
 
 ---
